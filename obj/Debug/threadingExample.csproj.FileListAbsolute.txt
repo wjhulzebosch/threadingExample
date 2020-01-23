@@ -1,0 +1,6 @@
+C:\git\threadingExample\obj\Debug\threadingExample.csprojAssemblyReference.cache
+C:\git\threadingExample\bin\Debug\threadingExample.exe.config
+C:\git\threadingExample\bin\Debug\threadingExample.exe
+C:\git\threadingExample\bin\Debug\threadingExample.pdb
+C:\git\threadingExample\obj\Debug\threadingExample.exe
+C:\git\threadingExample\obj\Debug\threadingExample.pdb
