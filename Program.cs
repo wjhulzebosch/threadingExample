@@ -30,7 +30,7 @@ namespace threadingExample
                 }
             }
 
-            keyPress.stop();
+            // keyPress.stop();
         }
 
         ConsoleKey keyPress()
